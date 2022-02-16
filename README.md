@@ -1,6 +1,9 @@
 # ExpressFood
 **Food Application with React Native**
 
+> Firebase, Drawer, Navigation, Elements, Swiper
+
+
 <p align="center">
 <img src="https://user-images.githubusercontent.com/65288948/154227445-65456d9f-adeb-43c0-abd2-73855c127cf4.png" width="250" height="430" align="left">
 
